@@ -1,0 +1,12 @@
+# Ignore Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xltx
+*.xltm
+
+# Ignore CSV files
+*.csv
+
+# Ignore environment files
+.env
